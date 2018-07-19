@@ -1,0 +1,11 @@
+/home/burak/Development/DotnetProjects/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/home/burak/Development/DotnetProjects/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/home/burak/Development/DotnetProjects/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/home/burak/Development/DotnetProjects/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/home/burak/Development/DotnetProjects/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/home/burak/Development/DotnetProjects/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
